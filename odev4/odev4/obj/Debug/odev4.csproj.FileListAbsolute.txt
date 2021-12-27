@@ -1,0 +1,16 @@
+C:\Users\ali delibaş\source\repos\masaustu\odev4\odev4\odev4\bin\Debug\odev4.exe.config
+C:\Users\ali delibaş\source\repos\masaustu\odev4\odev4\odev4\bin\Debug\odev4.exe
+C:\Users\ali delibaş\source\repos\masaustu\odev4\odev4\odev4\bin\Debug\odev4.pdb
+C:\Users\ali delibaş\source\repos\masaustu\odev4\odev4\odev4\obj\Debug\odev4.csproj.AssemblyReference.cache
+C:\Users\ali delibaş\source\repos\masaustu\odev4\odev4\odev4\obj\Debug\odev4.Form1.resources
+C:\Users\ali delibaş\source\repos\masaustu\odev4\odev4\odev4\obj\Debug\odev4.Properties.Resources.resources
+C:\Users\ali delibaş\source\repos\masaustu\odev4\odev4\odev4\obj\Debug\odev4.csproj.GenerateResource.cache
+C:\Users\ali delibaş\source\repos\masaustu\odev4\odev4\odev4\obj\Debug\odev4.csproj.CoreCompileInputs.cache
+C:\Users\ali delibaş\source\repos\masaustu\odev4\odev4\odev4\obj\Debug\odev4.exe
+C:\Users\ali delibaş\source\repos\masaustu\odev4\odev4\odev4\obj\Debug\odev4.pdb
+C:\Users\ali delibaş\source\repos\masaustu\odev4\odev4\odev4\bin\Debug\tr\odev4.resources.dll
+C:\Users\ali delibaş\source\repos\masaustu\odev4\odev4\odev4\obj\Debug\odev4.Form1.tr.resources
+C:\Users\ali delibaş\source\repos\masaustu\odev4\odev4\odev4\obj\Debug\tr\odev4.resources.dll
+C:\Users\ali delibaş\source\repos\masaustu\odev4\odev4\odev4\obj\Debug\odev4.DELETE.resources
+C:\Users\ali delibaş\source\repos\masaustu\odev4\odev4\odev4\obj\Debug\odev4.EDIT.resources
+C:\Users\ali delibaş\source\repos\masaustu\odev4\odev4\odev4\obj\Debug\odev4.YENi.resources
